@@ -38,12 +38,12 @@
 ### 📊 Activity & Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jvkubino&show_icons=true&theme=tokyonight&border_radius=10" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvkubino&layout=compact&theme=tokyonight&border_radius=10" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jvkubino&show_icons=true&theme=tokyonight&border_radius=10&count_private=true&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvkubino&layout=compact&theme=tokyonight&border_radius=10&count_private=true&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=jvkubino&theme=tokyonight&border_radius=10" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=jvkubino&theme=tokyonight&border_radius=10&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
