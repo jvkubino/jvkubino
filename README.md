@@ -50,7 +50,7 @@
 
 ### 🛠️ Featured Project: Envy
 **Envy** is my take on making configuration management seamless. Built with performance and developer experience in mind.
-[**View Repository →**](https://github.com/jvkubino/Envy)
+[**View Repository →**] [RELEASING SOON]
 
 ---
 
