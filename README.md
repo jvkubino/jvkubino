@@ -4,7 +4,7 @@
 
 ### 🇮🇹🇵🇱 | 15-year-old Tech Enthusiast & ITIS Student
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Building+modern+web+apps;Exploring+new+frameworks+C%2B%2B;Full+Stack+Development;Always+curious...;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Building+modern+web+apps;Exploring+new+frameworks;Full+Stack+Development;Always+curious...;)](https://git.io/typing-svg)
 
 ---
 
