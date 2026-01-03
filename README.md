@@ -9,7 +9,7 @@
 ---
 
 ### 💫 About Me
-**Student at ITIS** focused on Computer Science. I spend my days turning caffeine into code and logic into software. My journey started in 2023, and I've been hooked on building tools that actually matter ever since.
+**Student at ITIS** focused on Computer Science. I spend my days when i don't have to study,coding and designing. I started coding in 2023, and I've been hooked on building tools that actually matter ever since.
 
 **Currently learning:** Advanced Data Structures in C++ & Scalable Backend Architectures.
 
