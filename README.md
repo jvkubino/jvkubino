@@ -4,8 +4,6 @@
 
 ### 🇮🇹🇵🇱 | 15-year-old Tech Enthusiast & ITIS Student
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Building+modern+web+apps;Exploring+new+frameworks;Full+Stack+Development;Always+curious...;)](https://git.io/typing-svg)
-
 ---
 
 ### 💫 About Me
@@ -61,6 +59,6 @@
 
 ---
 
-*"First, solve the problem. Then, write the code."* ![Views](https://komarev.com/ghpvc/?username=jvkubino&color=6C63FF&style=flat-square&label=PROFILE+VIEWS)
+![Views](https://komarev.com/ghpvc/?username=jvkubino&color=6C63FF&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
