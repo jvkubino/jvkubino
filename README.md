@@ -109,20 +109,9 @@ A developer-first tool built for **performance** and **seamless DX** — because
 ![Language](https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge)
 
-**→ Releasing Soon. Stay tuned.**
+**→ Releasing Soon..**
 
 </div>
-
----
-
-## 🌱 Currently Learning
-
-| Area | Topic | Progress |
-|---|---|---|
-| 🧠 Algorithms | Advanced Data Structures in C++ | 🟩🟩🟩🟩🟨⬜ |
-| 🏗️ Architecture | Scalable Backend Systems | 🟩🟩🟩🟨⬜⬜ |
-| 🌐 Web | Full-Stack with Next.js & Postgres | 🟩🟩🟩🟩🟩⬜ |
-| 🐧 Systems | Linux & DevOps basics | 🟩🟩🟩⬜⬜⬜ |
 
 ---
 
@@ -136,7 +125,7 @@ A developer-first tool built for **performance** and **seamless DX** — because
 
 <br/>
 
-_Open to collaborations, open source contributions & cool ideas. Don't be shy — reach out!_ 🚀
+_Open to collaborations, open source contributions & cool ideas.
 
 </div>
 
