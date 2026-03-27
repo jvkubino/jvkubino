@@ -32,11 +32,9 @@ const jakub = {
     "Full-Stack Web Development",
   ],
 
-  funFact: "I build tools I wish existed — then share them with the world.",
+  funFact: "I build tools I wish existed.",
 };
 ```
-
-> _"Code is not just instructions for machines — it's a craft, a form of expression."_
 
 ---
 
